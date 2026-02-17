@@ -1,5 +1,5 @@
 import tickets from '../../data/tickets.json'
-import type { Ticket } from '../../app/composables/core/interfaces'
+import type { Ticket } from '~/composables/core/interfaces'
 
 export default defineEventHandler((event) => {
   const query = getQuery(event)

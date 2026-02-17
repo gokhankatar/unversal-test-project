@@ -2,6 +2,8 @@
 
 Modern bir seyahat platformu — konaklama rezervasyonu ve bilet arama için geliştirilmiş, **Nuxt 3** ve **Vuetify 3** tabanlı tam responsive web uygulaması.
 
+**[🌐 Canlı Demo](https://unversal-test-project.vercel.app/)**
+
 ---
 
 ## 📸 Önizlemeler
