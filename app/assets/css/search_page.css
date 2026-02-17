@@ -1,0 +1,140 @@
+.search-page {
+  padding: 32px 0 64px;
+  overflow-x: hidden;
+}
+
+.search-infinite-scroll {
+  overflow-x: hidden;
+  max-width: 100%;
+}
+
+.page-title {
+  font-size: 1.75rem;
+  font-weight: 700;
+  color: var(--color-text);
+  margin-bottom: 4px;
+}
+
+.page-subtitle {
+  color: var(--color-muted);
+  margin-bottom: 24px;
+}
+
+.results-loading {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+  padding: 64px 0;
+  color: var(--color-muted);
+}
+
+.results-grid {
+  margin-top: 24px;
+  overflow-x: hidden;
+}
+.results-grid :deep(.v-col) {
+  min-width: 0;
+}
+
+.results-list {
+  margin-top: 24px;
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--color-border);
+  overflow: hidden;
+}
+
+.results-list :deep(.v-list-item) {
+  min-height: 0;
+  padding-block: 12px;
+  padding-inline-start: 12px;
+}
+
+.results-list :deep(.v-list-item__prepend),
+.results-list :deep(.v-list-item__append) {
+  flex-shrink: 0;
+}
+
+.results-list :deep(.v-list-item__content) {
+  min-width: 0;
+  overflow: hidden;
+}
+
+.layout-toggle-btns {
+  border-radius: var(--radius-lg);
+}
+
+.no-results {
+  text-align: center;
+  color: var(--color-muted);
+  padding: 48px 0;
+}
+
+.filter-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 12px;
+  padding-block: 4px;
+}
+
+.layout-toggle {
+  display: flex;
+  align-items: center;
+}
+
+.layout-toggle-btns :deep(.v-btn) {
+  min-width: 40px;
+}
+
+.filter-chips {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+}
+
+.filter-chip {
+  font-size: 0.8125rem;
+}
+
+.filter-chip__label {
+  font-weight: 600;
+  margin-right: 4px;
+  opacity: 0.9;
+}
+
+.filter-clear-all {
+  text-transform: none;
+  font-size: 0.8125rem;
+  font-weight: 500;
+}
+
+.sort-select {
+  min-width: 180px;
+}
+
+.sort-select :deep(.v-field) {
+  font-size: 0.8125rem;
+}
+
+.sort-selection {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.8125rem;
+}
+
+.sort-selection-icon {
+  opacity: 0.8;
+}
+
+/* Dropdown list - teleported to body, needs global style */
+.sort-select-menu .v-list-item {
+  font-size: 0.8125rem;
+  min-height: 36px;
+}
+
+.sort-select-menu .v-list-item .v-icon {
+  font-size: 18px;
+}

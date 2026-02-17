@@ -1,0 +1,1190 @@
+[
+  {
+    "id": "b1",
+    "title": "Sunset Beach Villa",
+    "location": "Antalya, Turkey",
+    "pricePerNight": 245,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1613490493576-7fde63acd811?w=800",
+    "images": [
+      "https://images.unsplash.com/photo-1613490493576-7fde63acd811?w=800"
+    ],
+    "type": "villa",
+    "isFavorite": false,
+    "description": "Luxurious villa with private pool.",
+    "amenities": [
+      "WiFi",
+      "Pool",
+      "Parking",
+      "Kitchen",
+      "AC"
+    ]
+  },
+  {
+    "id": "b2",
+    "title": "Downtown Loft Apartment",
+    "location": "Istanbul, Turkey",
+    "pricePerNight": 89,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800",
+    "type": "apartment",
+    "isFavorite": false,
+    "description": "Modern loft in the heart of the city.",
+    "amenities": [
+      "WiFi",
+      "Kitchen",
+      "AC",
+      "Washer"
+    ]
+  },
+  {
+    "id": "b3",
+    "title": "Grand Palace Hotel",
+    "location": "Cappadocia, Turkey",
+    "pricePerNight": 320,
+    "rating": 4.95,
+    "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+    "type": "hotel",
+    "isFavorite": false,
+    "description": "Cave hotel with breathtaking views.",
+    "amenities": [
+      "WiFi",
+      "Pool",
+      "Spa",
+      "Restaurant",
+      "Parking"
+    ]
+  },
+  {
+    "id": "b4",
+    "title": "Cozy Mountain Cabin",
+    "location": "Bolu, Turkey",
+    "pricePerNight": 120,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1518780664697-55e3ad937233?w=800",
+    "type": "apartment",
+    "isFavorite": false,
+    "description": "Peaceful retreat in the mountains.",
+    "amenities": [
+      "WiFi",
+      "Fireplace",
+      "Kitchen",
+      "Parking"
+    ]
+  },
+  {
+    "id": "b5",
+    "title": "Seaside Resort & Spa",
+    "location": "Bodrum, Turkey",
+    "pricePerNight": 180,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?w=800",
+    "type": "hotel",
+    "isFavorite": false,
+    "description": "All-inclusive resort with private beach.",
+    "amenities": [
+      "WiFi",
+      "Pool",
+      "Beach",
+      "Spa",
+      "Restaurant"
+    ]
+  },
+  {
+    "id": "b6",
+    "title": "Historic Sultan Suite",
+    "location": "Istanbul, Turkey",
+    "pricePerNight": 195,
+    "rating": 4.85,
+    "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800",
+    "type": "hotel",
+    "isFavorite": false,
+    "description": "Ottoman-style luxury in Sultanahmet.",
+    "amenities": [
+      "WiFi",
+      "Restaurant",
+      "Spa",
+      "AC"
+    ]
+  },
+  {
+    "id": "b7",
+    "title": "Oludeniz Beach House",
+    "location": "Fethiye, Turkey",
+    "pricePerNight": 155,
+    "rating": 4.75,
+    "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800",
+    "type": "villa",
+    "isFavorite": false,
+    "description": "Steps from the famous blue lagoon.",
+    "amenities": [
+      "WiFi",
+      "Pool",
+      "Beach",
+      "Kitchen"
+    ]
+  },
+  {
+    "id": "b8",
+    "title": "City Center Studio",
+    "location": "Ankara, Turkey",
+    "pricePerNight": 65,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800",
+    "type": "apartment",
+    "isFavorite": false,
+    "description": "Compact studio near Kızılay.",
+    "amenities": [
+      "WiFi",
+      "Kitchen",
+      "AC"
+    ]
+  },
+  {
+    "id": "b9",
+    "title": "Kalkan Sea View Villa",
+    "location": "Kalkan, Turkey",
+    "pricePerNight": 280,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd?w=800",
+    "type": "villa",
+    "isFavorite": false,
+    "description": "Stunning Mediterranean views.",
+    "amenities": [
+      "WiFi",
+      "Pool",
+      "Parking",
+      "Kitchen",
+      "AC"
+    ]
+  },
+  {
+    "id": "b10",
+    "title": "Pamukkale Thermal Hotel",
+    "location": "Pamukkale, Turkey",
+    "pricePerNight": 95,
+    "rating": 4.65,
+    "image": "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?w=800",
+    "type": "hotel",
+    "isFavorite": false,
+    "description": "Natural thermal pools on site.",
+    "amenities": [
+      "WiFi",
+      "Pool",
+      "Spa",
+      "Restaurant"
+    ]
+  },
+  {
+    "id": "b11",
+    "title": "Ephesus Heritage Hotel",
+    "location": "Selçuk, Turkey",
+    "pricePerNight": 110,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=800",
+    "type": "hotel",
+    "isFavorite": false,
+    "description": "Near ancient Ephesus ruins.",
+    "amenities": [
+      "WiFi",
+      "Pool",
+      "Restaurant",
+      "Parking"
+    ]
+  },
+  {
+    "id": "b12",
+    "title": "Marmaris Marina Apartment",
+    "location": "Marmaris, Turkey",
+    "pricePerNight": 130,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800",
+    "type": "apartment",
+    "isFavorite": false,
+    "description": "Waterfront apartment with marina view.",
+    "amenities": [
+      "WiFi",
+      "Kitchen",
+      "AC",
+      "Balcony"
+    ]
+  },
+  {
+    "id": "b13",
+    "title": "Alacati Wind Villa",
+    "location": "Alaçatı, Turkey",
+    "pricePerNight": 220,
+    "rating": 4.88,
+    "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800",
+    "type": "villa",
+    "isFavorite": false,
+    "description": "Surf paradise, stone house.",
+    "amenities": [
+      "WiFi",
+      "Pool",
+      "Parking",
+      "Kitchen"
+    ]
+  },
+  {
+    "id": "b14",
+    "title": "Trabzon Mountain Lodge",
+    "location": "Trabzon, Turkey",
+    "pricePerNight": 85,
+    "rating": 4.55,
+    "image": "https://images.unsplash.com/photo-1518780664697-55e3ad937233?w=800",
+    "type": "hotel",
+    "isFavorite": false,
+    "description": "Green mountains of Black Sea.",
+    "amenities": [
+      "WiFi",
+      "Restaurant",
+      "Parking"
+    ]
+  },
+  {
+    "id": "b15",
+    "title": "Kas Boutique Hotel",
+    "location": "Kaş, Turkey",
+    "pricePerNight": 165,
+    "rating": 4.82,
+    "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?w=800",
+    "type": "hotel",
+    "isFavorite": false,
+    "description": "Diving center, rooftop bar.",
+    "amenities": [
+      "WiFi",
+      "Pool",
+      "Bar",
+      "Restaurant"
+    ]
+  },
+  {
+    "id": "b16",
+    "title": "Göreme Cave Suite",
+    "location": "Cappadocia, Turkey",
+    "pricePerNight": 140,
+    "rating": 4.78,
+    "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+    "type": "apartment",
+    "isFavorite": false,
+    "description": "Authentic cave room experience.",
+    "amenities": [
+      "WiFi",
+      "Fireplace",
+      "AC"
+    ]
+  },
+  {
+    "id": "b17",
+    "title": "Bebek Waterfront Loft",
+    "location": "Istanbul, Turkey",
+    "pricePerNight": 175,
+    "rating": 4.72,
+    "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800",
+    "type": "apartment",
+    "isFavorite": false,
+    "description": "Bosphorus view, trendy district.",
+    "amenities": [
+      "WiFi",
+      "Kitchen",
+      "AC",
+      "Balcony"
+    ]
+  },
+  {
+    "id": "b18",
+    "title": "Datça Peninsula Villa",
+    "location": "Datça, Turkey",
+    "pricePerNight": 260,
+    "rating": 4.92,
+    "image": "https://images.unsplash.com/photo-1613490493576-7fde63acd811?w=800",
+    "type": "villa",
+    "isFavorite": false,
+    "description": "Private bay, olive groves.",
+    "amenities": [
+      "WiFi",
+      "Pool",
+      "Beach",
+      "Kitchen"
+    ]
+  },
+  {
+    "id": "b19",
+    "title": "Izmir City Apartment",
+    "location": "İzmir, Turkey",
+    "pricePerNight": 75,
+    "rating": 4.58,
+    "image": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800",
+    "type": "apartment",
+    "isFavorite": false,
+    "description": "Kordon promenade nearby.",
+    "amenities": [
+      "WiFi",
+      "Kitchen",
+      "AC"
+    ]
+  },
+  {
+    "id": "b20",
+    "title": "Safranbolu Ottoman House",
+    "location": "Safranbolu, Turkey",
+    "pricePerNight": 100,
+    "rating": 4.68,
+    "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800",
+    "type": "hotel",
+    "isFavorite": false,
+    "description": "UNESCO heritage, traditional.",
+    "amenities": [
+      "WiFi",
+      "Restaurant",
+      "Fireplace"
+    ]
+  },
+  {
+    "id": "b21",
+    "title": "Antalya Old Town Riad",
+    "location": "Antalya, Turkey",
+    "pricePerNight": 125,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd?w=800",
+    "type": "apartment",
+    "isFavorite": false,
+    "description": "Kaleiçi historic center.",
+    "amenities": [
+      "WiFi",
+      "Kitchen",
+      "AC",
+      "Terrace"
+    ]
+  },
+  {
+    "id": "b22",
+    "title": "Uludağ Ski Chalet",
+    "location": "Bursa, Turkey",
+    "pricePerNight": 200,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1518780664697-55e3ad937233?w=800",
+    "type": "villa",
+    "isFavorite": false,
+    "description": "Ski-in ski-out access.",
+    "amenities": [
+      "WiFi",
+      "Fireplace",
+      "Parking",
+      "Kitchen"
+    ]
+  },
+  {
+    "id": "b23",
+    "title": "Side Roman View Hotel",
+    "location": "Side, Turkey",
+    "pricePerNight": 115,
+    "rating": 4.65,
+    "image": "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?w=800",
+    "type": "hotel",
+    "isFavorite": false,
+    "description": "Ancient theater views.",
+    "amenities": [
+      "WiFi",
+      "Pool",
+      "Restaurant",
+      "Beach"
+    ]
+  },
+  {
+    "id": "b24",
+    "title": "Çeşme Beach Resort",
+    "location": "Çeşme, Turkey",
+    "pricePerNight": 190,
+    "rating": 4.85,
+    "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?w=800",
+    "type": "hotel",
+    "isFavorite": false,
+    "description": "All-inclusive beach resort.",
+    "amenities": [
+      "WiFi",
+      "Pool",
+      "Beach",
+      "Spa",
+      "Restaurant"
+    ]
+  },
+  {
+    "id": "b25",
+    "title": "Kadıköy Moda Flat",
+    "location": "Istanbul, Turkey",
+    "pricePerNight": 92,
+    "rating": 4.62,
+    "image": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800",
+    "type": "apartment",
+    "isFavorite": false,
+    "description": "Asian side, hip neighborhood.",
+    "amenities": [
+      "WiFi",
+      "Kitchen",
+      "AC"
+    ]
+  },
+  {
+    "id": "b26",
+    "title": "Ölüdeniz Paragliding Lodge",
+    "location": "Fethiye, Turkey",
+    "pricePerNight": 105,
+    "rating": 4.75,
+    "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800",
+    "type": "hotel",
+    "isFavorite": false,
+    "description": "Paragliding takeoff nearby.",
+    "amenities": [
+      "WiFi",
+      "Pool",
+      "Restaurant",
+      "Parking"
+    ]
+  },
+  {
+    "id": "b27",
+    "title": "Bodrum Castle View Suite",
+    "location": "Bodrum, Turkey",
+    "pricePerNight": 165,
+    "rating": 4.78,
+    "image": "https://images.unsplash.com/photo-1613490493576-7fde63acd811?w=800",
+    "type": "hotel",
+    "isFavorite": false,
+    "description": "Castle and marina views.",
+    "amenities": [
+      "WiFi",
+      "Pool",
+      "Restaurant",
+      "Bar"
+    ]
+  },
+  {
+    "id": "b28",
+    "title": "Ayvalık Island House",
+    "location": "Ayvalık, Turkey",
+    "pricePerNight": 145,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd?w=800",
+    "type": "villa",
+    "isFavorite": false,
+    "description": "Cunda Island, olive oil region.",
+    "amenities": [
+      "WiFi",
+      "Kitchen",
+      "Parking",
+      "Garden"
+    ]
+  },
+  {
+    "id": "b29",
+    "title": "Nevşehir Cave Hotel",
+    "location": "Cappadocia, Turkey",
+    "pricePerNight": 135,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+    "type": "hotel",
+    "isFavorite": false,
+    "description": "Balloon launch view.",
+    "amenities": [
+      "WiFi",
+      "Pool",
+      "Restaurant",
+      "Terrace"
+    ]
+  },
+  {
+    "id": "b30",
+    "title": "Gallipoli Peace Hotel",
+    "location": "Çanakkale, Turkey",
+    "pricePerNight": 88,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=800",
+    "type": "hotel",
+    "isFavorite": false,
+    "description": "Near historic battlefields.",
+    "amenities": [
+      "WiFi",
+      "Restaurant",
+      "Parking"
+    ]
+  },
+  {
+    "id": "b31",
+    "title": "Kemer Forest Bungalow",
+    "location": "Kemer, Turkey",
+    "pricePerNight": 120,
+    "rating": 4.68,
+    "image": "https://images.unsplash.com/photo-1518780664697-55e3ad937233?w=800",
+    "type": "apartment",
+    "isFavorite": false,
+    "description": "Pine forest, quiet beach.",
+    "amenities": [
+      "WiFi",
+      "Kitchen",
+      "Parking",
+      "Garden"
+    ]
+  },
+  {
+    "id": "b32",
+    "title": "Taksim Central Apartment",
+    "location": "Istanbul, Turkey",
+    "pricePerNight": 98,
+    "rating": 4.55,
+    "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800",
+    "type": "apartment",
+    "isFavorite": false,
+    "description": "Heart of Beyoğlu nightlife.",
+    "amenities": [
+      "WiFi",
+      "Kitchen",
+      "AC"
+    ]
+  },
+  {
+    "id": "b33",
+    "title": "Patara Beach Villa",
+    "location": "Patara, Turkey",
+    "pricePerNight": 210,
+    "rating": 4.88,
+    "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800",
+    "type": "villa",
+    "isFavorite": false,
+    "description": "Longest beach in Turkey.",
+    "amenities": [
+      "WiFi",
+      "Pool",
+      "Beach",
+      "Kitchen"
+    ]
+  },
+  {
+    "id": "b34",
+    "title": "Göcek Yacht Club Hotel",
+    "location": "Göcek, Turkey",
+    "pricePerNight": 185,
+    "rating": 4.82,
+    "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?w=800",
+    "type": "hotel",
+    "isFavorite": false,
+    "description": "Marina, gulet cruises.",
+    "amenities": [
+      "WiFi",
+      "Pool",
+      "Restaurant",
+      "Bar"
+    ]
+  },
+  {
+    "id": "b35",
+    "title": "Van Lake House",
+    "location": "Van, Turkey",
+    "pricePerNight": 95,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd?w=800",
+    "type": "apartment",
+    "isFavorite": false,
+    "description": "Lakeside, cat island nearby.",
+    "amenities": [
+      "WiFi",
+      "Kitchen",
+      "Parking"
+    ]
+  },
+  {
+    "id": "b36",
+    "title": "Sunset Beach Villa II",
+    "location": "Antalya, Turkey",
+    "pricePerNight": 225,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1613490493576-7fde63acd811?w=800",
+    "images": [
+      "https://images.unsplash.com/photo-1613490493576-7fde63acd811?w=800"
+    ],
+    "type": "villa",
+    "isFavorite": false,
+    "description": "Luxurious villa with private pool.",
+    "amenities": [
+      "WiFi",
+      "Pool",
+      "Parking",
+      "Kitchen",
+      "AC"
+    ]
+  },
+  {
+    "id": "b37",
+    "title": "Downtown Loft Apartment II",
+    "location": "Istanbul, Turkey",
+    "pricePerNight": 79,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800",
+    "type": "apartment",
+    "isFavorite": false,
+    "description": "Modern loft in the heart of the city.",
+    "amenities": [
+      "WiFi",
+      "Kitchen",
+      "AC",
+      "Washer"
+    ]
+  },
+  {
+    "id": "b38",
+    "title": "Grand Palace Hotel II",
+    "location": "Cappadocia, Turkey",
+    "pricePerNight": 320,
+    "rating": 4.95,
+    "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+    "type": "hotel",
+    "isFavorite": false,
+    "description": "Cave hotel with breathtaking views.",
+    "amenities": [
+      "WiFi",
+      "Pool",
+      "Spa",
+      "Restaurant",
+      "Parking"
+    ]
+  },
+  {
+    "id": "b39",
+    "title": "Cozy Mountain Cabin II",
+    "location": "Bolu, Turkey",
+    "pricePerNight": 130,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1518780664697-55e3ad937233?w=800",
+    "type": "apartment",
+    "isFavorite": false,
+    "description": "Peaceful retreat in the mountains.",
+    "amenities": [
+      "WiFi",
+      "Fireplace",
+      "Kitchen",
+      "Parking"
+    ]
+  },
+  {
+    "id": "b40",
+    "title": "Seaside Resort & Spa II",
+    "location": "Bodrum, Turkey",
+    "pricePerNight": 200,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?w=800",
+    "type": "hotel",
+    "isFavorite": false,
+    "description": "All-inclusive resort with private beach.",
+    "amenities": [
+      "WiFi",
+      "Pool",
+      "Beach",
+      "Spa",
+      "Restaurant"
+    ]
+  },
+  {
+    "id": "b41",
+    "title": "Historic Sultan Suite II",
+    "location": "Istanbul, Turkey",
+    "pricePerNight": 175,
+    "rating": 4.85,
+    "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800",
+    "type": "hotel",
+    "isFavorite": false,
+    "description": "Ottoman-style luxury in Sultanahmet.",
+    "amenities": [
+      "WiFi",
+      "Restaurant",
+      "Spa",
+      "AC"
+    ]
+  },
+  {
+    "id": "b42",
+    "title": "Oludeniz Beach House II",
+    "location": "Fethiye, Turkey",
+    "pricePerNight": 145,
+    "rating": 4.75,
+    "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800",
+    "type": "villa",
+    "isFavorite": false,
+    "description": "Steps from the famous blue lagoon.",
+    "amenities": [
+      "WiFi",
+      "Pool",
+      "Beach",
+      "Kitchen"
+    ]
+  },
+  {
+    "id": "b43",
+    "title": "City Center Studio II",
+    "location": "Ankara, Turkey",
+    "pricePerNight": 65,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800",
+    "type": "apartment",
+    "isFavorite": false,
+    "description": "Compact studio near Kızılay.",
+    "amenities": [
+      "WiFi",
+      "Kitchen",
+      "AC"
+    ]
+  },
+  {
+    "id": "b44",
+    "title": "Kalkan Sea View Villa II",
+    "location": "Kalkan, Turkey",
+    "pricePerNight": 290,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd?w=800",
+    "type": "villa",
+    "isFavorite": false,
+    "description": "Stunning Mediterranean views.",
+    "amenities": [
+      "WiFi",
+      "Pool",
+      "Parking",
+      "Kitchen",
+      "AC"
+    ]
+  },
+  {
+    "id": "b45",
+    "title": "Pamukkale Thermal Hotel II",
+    "location": "Pamukkale, Turkey",
+    "pricePerNight": 115,
+    "rating": 4.65,
+    "image": "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?w=800",
+    "type": "hotel",
+    "isFavorite": false,
+    "description": "Natural thermal pools on site.",
+    "amenities": [
+      "WiFi",
+      "Pool",
+      "Spa",
+      "Restaurant"
+    ]
+  },
+  {
+    "id": "b46",
+    "title": "Ephesus Heritage Hotel II",
+    "location": "Selçuk, Turkey",
+    "pricePerNight": 90,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=800",
+    "type": "hotel",
+    "isFavorite": false,
+    "description": "Near ancient Ephesus ruins.",
+    "amenities": [
+      "WiFi",
+      "Pool",
+      "Restaurant",
+      "Parking"
+    ]
+  },
+  {
+    "id": "b47",
+    "title": "Marmaris Marina Apartment II",
+    "location": "Marmaris, Turkey",
+    "pricePerNight": 120,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800",
+    "type": "apartment",
+    "isFavorite": false,
+    "description": "Waterfront apartment with marina view.",
+    "amenities": [
+      "WiFi",
+      "Kitchen",
+      "AC",
+      "Balcony"
+    ]
+  },
+  {
+    "id": "b48",
+    "title": "Alacati Wind Villa II",
+    "location": "Alaçatı, Turkey",
+    "pricePerNight": 220,
+    "rating": 4.88,
+    "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800",
+    "type": "villa",
+    "isFavorite": false,
+    "description": "Surf paradise, stone house.",
+    "amenities": [
+      "WiFi",
+      "Pool",
+      "Parking",
+      "Kitchen"
+    ]
+  },
+  {
+    "id": "b49",
+    "title": "Trabzon Mountain Lodge II",
+    "location": "Trabzon, Turkey",
+    "pricePerNight": 95,
+    "rating": 4.55,
+    "image": "https://images.unsplash.com/photo-1518780664697-55e3ad937233?w=800",
+    "type": "hotel",
+    "isFavorite": false,
+    "description": "Green mountains of Black Sea.",
+    "amenities": [
+      "WiFi",
+      "Restaurant",
+      "Parking"
+    ]
+  },
+  {
+    "id": "b50",
+    "title": "Kas Boutique Hotel II",
+    "location": "Kaş, Turkey",
+    "pricePerNight": 185,
+    "rating": 4.82,
+    "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?w=800",
+    "type": "hotel",
+    "isFavorite": false,
+    "description": "Diving center, rooftop bar.",
+    "amenities": [
+      "WiFi",
+      "Pool",
+      "Bar",
+      "Restaurant"
+    ]
+  },
+  {
+    "id": "b51",
+    "title": "Göreme Cave Suite II",
+    "location": "Cappadocia, Turkey",
+    "pricePerNight": 120,
+    "rating": 4.78,
+    "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+    "type": "apartment",
+    "isFavorite": false,
+    "description": "Authentic cave room experience.",
+    "amenities": [
+      "WiFi",
+      "Fireplace",
+      "AC"
+    ]
+  },
+  {
+    "id": "b52",
+    "title": "Bebek Waterfront Loft II",
+    "location": "Istanbul, Turkey",
+    "pricePerNight": 165,
+    "rating": 4.72,
+    "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800",
+    "type": "apartment",
+    "isFavorite": false,
+    "description": "Bosphorus view, trendy district.",
+    "amenities": [
+      "WiFi",
+      "Kitchen",
+      "AC",
+      "Balcony"
+    ]
+  },
+  {
+    "id": "b53",
+    "title": "Datça Peninsula Villa II",
+    "location": "Datça, Turkey",
+    "pricePerNight": 260,
+    "rating": 4.92,
+    "image": "https://images.unsplash.com/photo-1613490493576-7fde63acd811?w=800",
+    "type": "villa",
+    "isFavorite": false,
+    "description": "Private bay, olive groves.",
+    "amenities": [
+      "WiFi",
+      "Pool",
+      "Beach",
+      "Kitchen"
+    ]
+  },
+  {
+    "id": "b54",
+    "title": "Izmir City Apartment II",
+    "location": "İzmir, Turkey",
+    "pricePerNight": 85,
+    "rating": 4.58,
+    "image": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800",
+    "type": "apartment",
+    "isFavorite": false,
+    "description": "Kordon promenade nearby.",
+    "amenities": [
+      "WiFi",
+      "Kitchen",
+      "AC"
+    ]
+  },
+  {
+    "id": "b55",
+    "title": "Safranbolu Ottoman House II",
+    "location": "Safranbolu, Turkey",
+    "pricePerNight": 120,
+    "rating": 4.68,
+    "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800",
+    "type": "hotel",
+    "isFavorite": false,
+    "description": "UNESCO heritage, traditional.",
+    "amenities": [
+      "WiFi",
+      "Restaurant",
+      "Fireplace"
+    ]
+  },
+  {
+    "id": "b56",
+    "title": "Antalya Old Town Riad II",
+    "location": "Antalya, Turkey",
+    "pricePerNight": 105,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd?w=800",
+    "type": "apartment",
+    "isFavorite": false,
+    "description": "Kaleiçi historic center.",
+    "amenities": [
+      "WiFi",
+      "Kitchen",
+      "AC",
+      "Terrace"
+    ]
+  },
+  {
+    "id": "b57",
+    "title": "Uludağ Ski Chalet II",
+    "location": "Bursa, Turkey",
+    "pricePerNight": 190,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1518780664697-55e3ad937233?w=800",
+    "type": "villa",
+    "isFavorite": false,
+    "description": "Ski-in ski-out access.",
+    "amenities": [
+      "WiFi",
+      "Fireplace",
+      "Parking",
+      "Kitchen"
+    ]
+  },
+  {
+    "id": "b58",
+    "title": "Side Roman View Hotel II",
+    "location": "Side, Turkey",
+    "pricePerNight": 115,
+    "rating": 4.65,
+    "image": "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?w=800",
+    "type": "hotel",
+    "isFavorite": false,
+    "description": "Ancient theater views.",
+    "amenities": [
+      "WiFi",
+      "Pool",
+      "Restaurant",
+      "Beach"
+    ]
+  },
+  {
+    "id": "b59",
+    "title": "Çeşme Beach Resort II",
+    "location": "Çeşme, Turkey",
+    "pricePerNight": 200,
+    "rating": 4.85,
+    "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?w=800",
+    "type": "hotel",
+    "isFavorite": false,
+    "description": "All-inclusive beach resort.",
+    "amenities": [
+      "WiFi",
+      "Pool",
+      "Beach",
+      "Spa",
+      "Restaurant"
+    ]
+  },
+  {
+    "id": "b60",
+    "title": "Kadıköy Moda Flat II",
+    "location": "Istanbul, Turkey",
+    "pricePerNight": 112,
+    "rating": 4.62,
+    "image": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800",
+    "type": "apartment",
+    "isFavorite": false,
+    "description": "Asian side, hip neighborhood.",
+    "amenities": [
+      "WiFi",
+      "Kitchen",
+      "AC"
+    ]
+  },
+  {
+    "id": "b61",
+    "title": "Ölüdeniz Paragliding Lodge II",
+    "location": "Fethiye, Turkey",
+    "pricePerNight": 85,
+    "rating": 4.75,
+    "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800",
+    "type": "hotel",
+    "isFavorite": false,
+    "description": "Paragliding takeoff nearby.",
+    "amenities": [
+      "WiFi",
+      "Pool",
+      "Restaurant",
+      "Parking"
+    ]
+  },
+  {
+    "id": "b62",
+    "title": "Bodrum Castle View Suite II",
+    "location": "Bodrum, Turkey",
+    "pricePerNight": 155,
+    "rating": 4.78,
+    "image": "https://images.unsplash.com/photo-1613490493576-7fde63acd811?w=800",
+    "type": "hotel",
+    "isFavorite": false,
+    "description": "Castle and marina views.",
+    "amenities": [
+      "WiFi",
+      "Pool",
+      "Restaurant",
+      "Bar"
+    ]
+  },
+  {
+    "id": "b63",
+    "title": "Ayvalık Island House II",
+    "location": "Ayvalık, Turkey",
+    "pricePerNight": 145,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd?w=800",
+    "type": "villa",
+    "isFavorite": false,
+    "description": "Cunda Island, olive oil region.",
+    "amenities": [
+      "WiFi",
+      "Kitchen",
+      "Parking",
+      "Garden"
+    ]
+  },
+  {
+    "id": "b64",
+    "title": "Nevşehir Cave Hotel II",
+    "location": "Cappadocia, Turkey",
+    "pricePerNight": 145,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+    "type": "hotel",
+    "isFavorite": false,
+    "description": "Balloon launch view.",
+    "amenities": [
+      "WiFi",
+      "Pool",
+      "Restaurant",
+      "Terrace"
+    ]
+  },
+  {
+    "id": "b65",
+    "title": "Gallipoli Peace Hotel II",
+    "location": "Çanakkale, Turkey",
+    "pricePerNight": 108,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=800",
+    "type": "hotel",
+    "isFavorite": false,
+    "description": "Near historic battlefields.",
+    "amenities": [
+      "WiFi",
+      "Restaurant",
+      "Parking"
+    ]
+  },
+  {
+    "id": "b66",
+    "title": "Kemer Forest Bungalow II",
+    "location": "Kemer, Turkey",
+    "pricePerNight": 100,
+    "rating": 4.68,
+    "image": "https://images.unsplash.com/photo-1518780664697-55e3ad937233?w=800",
+    "type": "apartment",
+    "isFavorite": false,
+    "description": "Pine forest, quiet beach.",
+    "amenities": [
+      "WiFi",
+      "Kitchen",
+      "Parking",
+      "Garden"
+    ]
+  },
+  {
+    "id": "b67",
+    "title": "Taksim Central Apartment II",
+    "location": "Istanbul, Turkey",
+    "pricePerNight": 88,
+    "rating": 4.55,
+    "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800",
+    "type": "apartment",
+    "isFavorite": false,
+    "description": "Heart of Beyoğlu nightlife.",
+    "amenities": [
+      "WiFi",
+      "Kitchen",
+      "AC"
+    ]
+  },
+  {
+    "id": "b68",
+    "title": "Patara Beach Villa II",
+    "location": "Patara, Turkey",
+    "pricePerNight": 210,
+    "rating": 4.88,
+    "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800",
+    "type": "villa",
+    "isFavorite": false,
+    "description": "Longest beach in Turkey.",
+    "amenities": [
+      "WiFi",
+      "Pool",
+      "Beach",
+      "Kitchen"
+    ]
+  },
+  {
+    "id": "b69",
+    "title": "Göcek Yacht Club Hotel II",
+    "location": "Göcek, Turkey",
+    "pricePerNight": 195,
+    "rating": 4.82,
+    "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?w=800",
+    "type": "hotel",
+    "isFavorite": false,
+    "description": "Marina, gulet cruises.",
+    "amenities": [
+      "WiFi",
+      "Pool",
+      "Restaurant",
+      "Bar"
+    ]
+  },
+  {
+    "id": "b70",
+    "title": "Van Lake House II",
+    "location": "Van, Turkey",
+    "pricePerNight": 115,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd?w=800",
+    "type": "apartment",
+    "isFavorite": false,
+    "description": "Lakeside, cat island nearby.",
+    "amenities": [
+      "WiFi",
+      "Kitchen",
+      "Parking"
+    ]
+  }
+]
