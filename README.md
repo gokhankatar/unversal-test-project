@@ -9,17 +9,17 @@ Modern bir seyahat platformu — konaklama rezervasyonu ve bilet arama için gel
 ### Ana Sayfa — Light Mode
 Ana sayfa hero bölümü, konaklama ve bilet arama sekmeleri ile popüler şehirler listesi.
 
-![Ana Sayfa Light Mode](/images/screenshots/macbook_light_preview.png)
+![Ana Sayfa Light Mode](public/images/screenshots/macbook_light_preview.png)
 
 ### Ana Sayfa — Dark Mode
 Karanlık tema ile ana sayfa görünümü.
 
-![Ana Sayfa Dark Mode](/images/screenshots/macbook_dark_preview.png)
+![Ana Sayfa Dark Mode](public/images/screenshots/macbook_dark_preview.png)
 
 ### Mobil Görünüm
 Responsive tasarım ile mobil cihazlarda görünüm.
 
-![Mobil Önizleme](/images/screenshots/mobile_preview.png)
+![Mobil Önizleme](public/images/screenshots/mobile_preview.png)
 
 ---
 
