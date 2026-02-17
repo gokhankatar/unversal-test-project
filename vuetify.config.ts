@@ -7,9 +7,9 @@ export default defineVuetifyConfiguration({
       light: {
         dark: false,
         colors: {
-          primary: '#0d9488',
-          'primary-darken-1': '#0f766e',
-          'primary-lighten-1': '#14b8a6',
+          primary: '#2563eb',
+          'primary-darken-1': '#1d4ed8',
+          'primary-lighten-1': '#3b82f6',
         },
       },
       dark: {
