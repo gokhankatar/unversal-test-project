@@ -9,9 +9,7 @@ Modern bir seyahat platformu — konaklama rezervasyonu ve bilet arama için gel
 ### Ana Sayfa
 Ana sayfa hero bölümü, konaklama ve bilet arama sekmeleri ile popüler şehirler listesi.
 
-![Ana Sayfa Önizleme](/images/screenshots/macbook_light_preview.png)
-
-> 💡 Ek ekran görüntüleri (arama sayfası, detay sayfaları vb.) için `public/images/screenshots/` klasörüne PNG dosyalarınızı ekleyebilirsiniz.
+![Ana Sayfa Önizleme](/public/images/screenshots/macbook_light_preview.png)
 
 ---
 
