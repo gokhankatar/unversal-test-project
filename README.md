@@ -14,7 +14,7 @@ Ana sayfa hero bölümü, konaklama ve bilet arama sekmeleri ile popüler şehir
 ### Ana Sayfa — Dark Mode
 Karanlık tema ile ana sayfa görünümü.
 
-![Ana Sayfa Dark Mode](public/images/screenshots/macbook_dark_preview.png)
+![Ana Sayfa Dark Mode](public/images/screenshots/Dark_mode.png)
 
 ### Mobil Görünüm
 Responsive tasarım ile mobil cihazlarda görünüm.
